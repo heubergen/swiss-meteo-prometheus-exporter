@@ -12,4 +12,5 @@ Only steps for Debian are provided, for other distros or OS they might differ.
 4. `cp meteo-exporter.service /etc/systemd/system/`
 5. `sudo systemctl enable nodeexporter`
 6. Install [client_python](https://github.com/prometheus/client_python) in your preferrred way
-7. `sudo systemctl start nodeexporter`
+7. Edit /opt/meteo-exporter/server.py with your favorite editor and change the variables as indicated
+8. `sudo systemctl start nodeexporter`
