@@ -2,7 +2,7 @@
 A prometheus exporter for the swiss meteo data.
 
 
-Source of data: [opendata.swiss](https://opendata.swiss/en/dataset/automatische-wetterstationen-aktuelle-messwerte/resource/e237df80-33a6-4bf9-bfc8-b9477e83a3e0)
+Source of data: [opendata.swiss](https://opendata.swiss/en/dataset/automatische-wetterstationen-aktuelle-messwerte)
 
 ## Installation
 Only steps for Debian are provided, for other distros or OS they might differ.
